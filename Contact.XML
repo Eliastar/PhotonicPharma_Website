@@ -1,0 +1,14 @@
+
+<! DOCTYPE CONTACT [
+
+<CONTACT>
+	<Name>
+		<First>Jane</First>
+		<Last>Doe</Last>
+	</Name>
+	<Email>JaneDoe@PP.com
+	</Email>
+	<Comment>Please send me information about the digitizer speed of your fluorescence instrument.
+	</Comment>
+</CONTACT>
+]>
